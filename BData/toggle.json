@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "notifications": true,
+        "darkMode": false,
+        "locationAccess": true,
+        "automaticUpdates": false,
+        "emailSubscription": true,
+        "twoFactorAuthentication": false
+    }
+}
